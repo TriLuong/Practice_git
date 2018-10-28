@@ -15,7 +15,7 @@ Add a commit
 
 Push source code to server
 
-	git push origin <branch_name>
+	git push origin <branch/tag_name>
 
 Fetch source from repo
 
@@ -28,6 +28,10 @@ Pull all new updated source from repo (after fetching source from repo)
 Create a branch 
 	
 	git branch <branch_name>
+
+Create a tag
+	
+	git tag -a <tag_name> -m '<type content of tag>'
 
 -----------------
 To type username and password when pushing to git ONE TIME
