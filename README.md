@@ -30,4 +30,8 @@ Create a branch
 	git branch <branch_name>
 
 -----------------
-	
+To type username and password when pushing to git ONE TIME
+
+	git config credential.helper store
+
+-----------------	
