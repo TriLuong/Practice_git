@@ -29,7 +29,7 @@ Create a branch
 	
 	git branch <branch_name>
 
-Create a tag
+Create a tag (annotated tag)
 	
 	git tag -a <tag_name> -m '<type content of tag>'
 
